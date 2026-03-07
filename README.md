@@ -5,7 +5,9 @@
 [telegram-group]: https://t.me/sophia_chat
 [telegram-group-badge]: https://img.shields.io/badge/Sophia%20Chat-Telegram-blue?style=flat&logo=Telegram
 
-[![Telegram][telegram-news-badge]][telegram-news] [![Telegram][telegram-group-badge]][telegram-group]
+[![Telegram][telegram-group-badge]][telegram-group]
+
+https://github.com/user-attachments/assets/2bc5e9d9-df37-4dba-8311-3c57ae42751b
 
 ## How-to
 
