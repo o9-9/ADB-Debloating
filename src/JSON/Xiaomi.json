@@ -304,6 +304,10 @@
         "Package":  "com.netflix.mediaclient"
     },
     {
+        "Name":  "Okko",
+        "Package":  "ru.more.play"
+    },
+    {
         "Name":  "Opera",
         "Package":  "com.opera.preinstall"
     },
