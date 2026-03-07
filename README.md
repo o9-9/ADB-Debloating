@@ -25,8 +25,6 @@
 * [App Inspector](https://play.google.com/store/apps/details?id=com.jgba.appinspector)
 * [ADB AppControl](https://4pda.to/forum/index.php?showtopic=993643)
 
-# Addendum
-
 ## Get apps packages list
 
 ```cmd
