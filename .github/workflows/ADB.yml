@@ -22,8 +22,7 @@ jobs:
           Compress-Archive @Parameters
 
       - name: Uploading
-        # https://github.com/softprops/action-gh-release/issues/556
-        uses: softprops/action-gh-release@01570a1f39cb168c169c802c3bceb9e93fb10974
+        uses: softprops/action-gh-release@master
         with:
           name: ${{ env.RELEASE_NAME }}
           token: ${{ github.token }}
