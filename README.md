@@ -1,4 +1,4 @@
-# Debloat MIUI/HyperOS, One UI, and Pixel Launcher via ADB
+# Debloat MIUI/HyperOS, One UI, and Pixel Launcher via ADB (no-root) with UI using PowerShell
 
 [telegram-news-badge]: https://img.shields.io/badge/Sophia%20News-Telegram-blue?style=flat&logo=Telegram
 [telegram-news]: https://t.me/sophianews
